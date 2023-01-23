@@ -8,16 +8,22 @@ Anaconda - Python 3.7
 
 ## ALGORITHM: 
 ### Step 1:
+Get the input file name from the user to count the words in it.
 
 ### Step 2: 
+ Assigning a variable num_words is 0. 
  
 ### Step 3: 
+Opening the file which the user entered.
 
 ### Step 4:  
+Split the words in the file using spaces between them.
 
 ### Step 5: 
+num_words increases for every word in the for loop iteration.
 
 ### Step 6: 
+Print the Number of Words and end the program
 
 ## PROGRAM:
 ```
