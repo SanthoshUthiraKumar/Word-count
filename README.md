@@ -8,13 +8,13 @@ Anaconda - Python 3.7
 
 ## ALGORITHM: 
 ### Step 1:
-Get the input file name from the user to count the words in it.
+Get the input text file name from the user to count the words in it.
 
 ### Step 2: 
  Assigning a variable num_words is 0. 
  
 ### Step 3: 
-Opening the file which the user entered.
+Opening the text file which the user entered.
 
 ### Step 4:  
 Split the words in the file using spaces between them using for loop.
@@ -27,6 +27,11 @@ Print the Number of Words and end the program
 
 ## PROGRAM:
 ```
+''' 
+Program to get the word count from a text.
+Developed by: Santhosh U
+RegisterNumber: 22009224
+'''
 fname=input("Enter file name: ")
 num_words=0
 with open(fname,'r') as f:
