@@ -17,7 +17,7 @@ Get the input file name from the user to count the words in it.
 Opening the file which the user entered.
 
 ### Step 4:  
-Split the words in the file using spaces between them.
+Split the words in the file using spaces between them using for loop.
 
 ### Step 5: 
 num_words increases for every word in the for loop iteration.
